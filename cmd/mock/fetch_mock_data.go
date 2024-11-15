@@ -1,4 +1,4 @@
-package cmd
+package mock
 
 import "github.com/livanjimenez/env-monitor/data"
 
